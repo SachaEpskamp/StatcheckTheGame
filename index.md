@@ -64,7 +64,7 @@ Each player rolls the die; the player who rolled the highest starts. In the case
 You can do the following in your torun:
 
   - **Observation:** start your turn by drawing one card
-  - **Induction:** You may discard two cards of the same type (e.g., two times *Bayes Factor* or two times *3. p-value*) to draw one card. Two cards of the type *1. Test*, *2. Statistic*, or *3. p-value* cards do not need to be identical (you can not, however, discard a *1. Test* and a *2. Statistic* card to draw a new card, as they are not of the same type)
+  - **Induction:** You may discard two cards of the same type (e.g., two *Bayes Factor* or two  *3. p-value* cards) to draw one card. Cards of the type *1. Test*, *2. Statistic*, or *3. p-value* do not need to be identical in the exact value of the degrees of freedom, test statistic or significance
       - You can cycle cards this way as many times as you want per turn
   - **Deduction:** You may play any number of special cards (all research cards except *1. Test*, *2. Statistic*, and *3. p-value*)
   - **Testing:** You may play *one* statistical test on the board
@@ -163,34 +163,34 @@ As in the real world, open science is the natural counter to a *Fraudster* and r
 ## Review deck
 
 ## Reviewer 2!
-<img src="cards/review/reviewer2.jpg"  style="width: 200px;"/>
+<img src="cards/review/reviewer2.jpg"  style="width: 400px;"/>
 
 [The worst reviewer you can get!](https://www.facebook.com/groups/reviewer2/) Drawing this reviewer will cause you to completely start from scratch on your paper. 
 
 ## Major Revisions
-<img src="cards/review/majorRevisions.jpg"  style="width: 200px;"/>
+<img src="cards/review/majorRevisions.jpg"  style="width: 400px;"/>
 
 Not the worst review, but you will need to put some substantive work in your paper to make it publishable. It will **not** get accepted in its current form!
 
 
 ## Minor revisions
-<img src="cards/review/minorRevisions.jpg"  style="width: 200px;"/>
+<img src="cards/review/minorRevisions.jpg"  style="width: 400px;"/>
 
 Not the worst review, but you will need to put some substantive work in your paper to make it publishable. It will **not** get accepted in its current form!
 
 ## Over the word limit
-<img src="cards/review/overTheWordLimit.jpg"  style="width: 200px;"/>
+<img src="cards/review/overTheWordLimit.jpg"  style="width: 400px;"/>
 
 Too long; did not read!
 
 
 ## Lost on the editor's desk
-<img src="cards/review/lost.jpg"  style="width: 200px;"/>
+<img src="cards/review/lost.jpg"  style="width: 400px;"/>
 
 Just keep waiting for that e-mail. It is coming any moment now! Aaaaany moment!
 
 ## Please cite this paper
-<img src="cards/review/pleaseCite.jpg"  style="width: 200px;"/>
+<img src="cards/review/pleaseCite.jpg"  style="width: 400px;"/>
 
 Because your peers really objectively think you should cite their work! This card acts as a separate statistical test that cannot be removed or statchecked. It is only removed when the player it is given too publishes his or her paper.
     
@@ -202,6 +202,7 @@ Because your peers really objectively think you should cite their work! This car
       - Beware though that trying to publish too soon is risky!
   - If you hold the *Fraudster* card, do not draw an *Open Science* card out by playing a *Behind the Pay-wall* card...
   - You can cycle two cards of the same type (e.g., two *Bayes Factor* or two *2. Statistic* cards) to draw a new card. Do this often!
+  - As in academia, it might be smarter to try and publish smaller papers rather than to put all your results in one big paper
     
 # Printing your own game
 
