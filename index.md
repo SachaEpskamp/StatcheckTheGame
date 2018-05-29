@@ -1,3 +1,5 @@
+![](logo/logo.png)
+
 # Statcheck: The game
 
 ## Welcome to GitHub Pages
