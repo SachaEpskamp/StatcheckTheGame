@@ -112,7 +112,7 @@ The *1. Test*, *2. Statistic* and *3. p-value* cards are always played together,
 ### Statcheck!
 <img src="cards/research/statcheck.jpg"  style="width: 200px;"/>
 
-The *Statcheck!* game can be used to test someone's statistical test using statcheck. You can use the web-app at https://sachaepskamp.shinyapps.io/statcheck/ for this purpose. For example, player 2 decides to play statcheck on the second significance test played by player 1:
+The *Statcheck!* game can be used to test someone's statistical test using statcheck. You can use the web-app at [https://sachaepskamp.shinyapps.io/statcheck/](sachaepskamp.shinyapps.io/statcheck) for this purpose (mobile friendly). For example, player 2 decides to play statcheck on the second significance test played by player 1:
 
 ![](GameRules/Slide6.jpg)
 
