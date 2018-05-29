@@ -2,7 +2,7 @@
 
 # Introduction
 
-Publish or perish! In this game, you and your opponents will be working on papers to publish. Of course, significant statistics greatly increase your chance to publish, but beware of methodological terrorists checking your $p$-values or using Bayesian statistics against you! Luckily, questionable research practices or outright Fraud might help you, as long as you are not caught by open science! As always, publication is mostly random and you have to be very luck with the reviewers. The first player who publishes two papers (you have to replicate findings after all) wins!
+Publish or perish! In this game, you and your opponents will be working on papers to publish. Of course, significant statistics greatly increase your chance to publish, but beware of methodological terrorists checking your p-values or using Bayesian statistics against you! Luckily, questionable research practices or outright Fraud might help you, as long as you are not caught by open science! As always, publication is mostly random and you have to be very luck with the reviewers. The first player who publishes two papers (you have to replicate findings after all) wins!
 
 # Requirements
 
@@ -107,7 +107,7 @@ her paper is now worth 3 points and she takes a shot at publishing. She rolls a 
 <img src="cards/research/nonsig.jpg"  style="width: 200px;"/>
 <img src="cards/research/sig.jpg"  style="width: 200px;"/>
 
-The *1. Test*, *2. Statistic* and *3. p-value* cards are always played together, and represent adding a statistical test to your paper. Because of publication bias, statistically significant ($p < 0.05$) results are worth 2 points while non-significant results are only worth 1 point.
+The *1. Test*, *2. Statistic* and *3. p-value* cards are always played together, and represent adding a statistical test to your paper. Because of publication bias, statistically significant (p < 0.05) results are worth 2 points while non-significant results are only worth 1 point.
 
 ### Statcheck!
 <img src="cards/research/statcheck.jpg"  style="width: 200px;"/>
@@ -214,7 +214,7 @@ Because your peers really objectively think you should cite their work! This car
     
 # Hardcore rules
 
-  - Instead of rolling the die to decide starting player, the player with the largest $h$-index starts
+  - Instead of rolling the die to decide starting player, the player with the largest h-index starts
   - When you are exposed as a fraudster, you also lose your PhD degree
   - Any time you try to publish, do not roll (except if you play the fraudster card) but immediately draw a reviewer card. If you draw *Minor Revisions*, you may roll for publication.
   - PhD-game: play until one player has at least 4 publications
