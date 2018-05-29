@@ -189,7 +189,7 @@ Too long; did not read!
 
 Just keep waiting for that e-mail. It is coming any moment now! Aaaaany moment!
 
-## Lost on the editor's desk
+## Please cite this paper
 <img src="cards/review/pleaseCite.jpg"  style="width: 200px;"/>
 
 Because your peers really objectively think you should cite their work! This card acts as a separate statistical test that cannot be removed or statchecked. It is only removed when the player it is given too publishes his or her paper.
