@@ -200,9 +200,8 @@ Because your peers really objectively think you should cite their work! This car
   - The game has only been validated in prior research up to 4 players!
   - As in academia, it might be smarter to try and publish smaller papers rather than to put all your results in one big paper
       - Beware though that trying to publish too soon is risky!
-  - If you hold the *Fraudster* card, do not draw an *Open Science* card out by playing a *Behind the Pay-wall* card...
+  - If you hold the *Fraudster* card, do not make an opponent play *Open Science* on you by playing a *Behind the Pay-wall* card...
   - You can cycle two cards of the same type (e.g., two *Bayes Factor* or two *2. Statistic* cards) to draw a new card. Do this often!
-  - As in academia, it might be smarter to try and publish smaller papers rather than to put all your results in one big paper
     
 # Printing your own game
 
