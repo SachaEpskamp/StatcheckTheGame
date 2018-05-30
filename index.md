@@ -192,7 +192,7 @@ Just keep waiting for that e-mail. It is coming any moment now! Aaaaany moment!
 ## Please cite this paper
 <img src="cards/review/pleaseCite.jpg"  style="width: 400px;"/>
 
-Because your peers really objectively think you should cite their work! This card acts as a separate statistical test that cannot be removed or statchecked. It is only removed when the player it is given too publishes his or her paper.
+Because your peers really objectively think you should cite their work! This card acts as a separate statistical test that cannot be removed or statchecked. It is only removed when the player it is given to publishes his or her paper.
     
 # Tips, tricks and frequently asked questions
 
