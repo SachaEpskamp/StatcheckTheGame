@@ -1,6 +1,6 @@
 ![](logo/logo.png)
 
-Made by [Sacha Epskamp](http://sachaepskamp.com/) and [Adela Isvoranu](http://www.adelaisvoranu.com/)
+Made by [Sacha Epskamp](http://sachaepskamp.com/) and [Adela Isvoranu](http://www.adelaisvoranu.com/).
 
 # Introduction
 
