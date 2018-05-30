@@ -176,7 +176,7 @@ Not the worst review, but you will need to put some substantive work in your pap
 ## Minor revisions
 <img src="cards/review/minorRevisions.jpg"  style="width: 400px;"/>
 
-Not the worst review, but you will need to put some substantive work in your paper to make it publishable. It will **not** get accepted in its current form!
+The best review you can get! You can immediatly try to publish again!
 
 ## Over the word limit
 <img src="cards/review/overTheWordLimit.jpg"  style="width: 400px;"/>
