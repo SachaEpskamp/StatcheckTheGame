@@ -1,5 +1,7 @@
 ![](logo/logo.png)
 
+Made by [Sacha Epskamp](http://sachaepskamp.com/) and [Adela Isvoranu](http://www.adelaisvoranu.com/)
+
 # Introduction
 
 Publish or perish! In this game, you and your opponents will be working on papers to publish. Of course, significant statistics greatly increase your chance to publish, but beware of methodological terrorists checking your p-values or using Bayesian statistics against you! Luckily, questionable research practices or outright fraud might help you, as long as you are not caught by open science! As always, publication is mostly random and you have to be very luck with the reviewers. The first player who publishes two papers (you have to replicate findings after all) wins!
