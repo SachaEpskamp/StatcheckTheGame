@@ -61,7 +61,7 @@ Each player rolls the die; the player who rolled the highest starts. In the case
 
 ## Turn order
 
-You can do the following in your torun:
+Players take turns in clockwise order. You can do the following in your turn:
 
   - **Observation:** start your turn by drawing one card
   - **Induction:** You may discard two cards of the same type (e.g., two *Bayes Factor* or two  *3. p-value* cards) to draw one card. Cards of the type *1. Test*, *2. Statistic*, or *3. p-value* do not need to be identical in the exact value of the degrees of freedom, test statistic or significance
@@ -71,7 +71,7 @@ You can do the following in your torun:
       - These must consist of a *1. Test*, a *2. Statistic*, and a *3. p-value*
   - **Evaluation:** If you have more than 10 cards in your hand, discard cards until you have 10 cards. If you want you may attempt to publish your paper (see rules below).
 
-As common in science, the induction, deduction and testing phases do not need to be played in order and can be repeated as many times as you want per turn. You may not play after attempting to publish, however.
+As common in science, the induction, deduction and testing phases do not need to be played in order and can be repeated as many times as you want per turn. You may not play after attempting to publish, however. 
 
 
 For example, player 1 may start her turn by drawing a card and playing a statistical test:
