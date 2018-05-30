@@ -217,6 +217,7 @@ Because your peers really objectively think you should cite their work! This car
 
   - Instead of rolling the die to decide starting player, the player with the largest h-index starts
   - When you play the *Statcheck!* card, also post a comment on Pubpeer
+  - You can also play *Statcheck!* on published papers. If you detect an error, nothing happens except that you annoy your opponent a bit
   - When you are exposed as a fraudster, you also lose your PhD degree
   - Any time you try to publish, do not roll (except if you play the fraudster card) but immediately draw a reviewer card. If you draw *Minor Revisions*, you may roll for publication.
   - PhD-game: play until one player has at least 4 publications
