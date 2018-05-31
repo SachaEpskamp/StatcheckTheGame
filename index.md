@@ -66,8 +66,7 @@ Each player rolls the die; the player who rolled the highest starts. In the case
 Players take turns in clockwise order. You can do the following in your turn:
 
   - **Observation:** start your turn by drawing one card
-  - **Induction:** You may discard two cards of the same type (e.g., two *Bayes Factor* or two  *(3) p-value* cards) to draw one card. Cards of the type *(1) Test*, *
-  Statistic*, or *(3) p-value* do not need to be identical in the exact value of the degrees of freedom, test statistic or significance
+  - **Induction:** You may discard two cards of the same type (e.g., two *Bayes Factor* or two  *(3) p-value* cards) to draw one card. Cards of the type *(1) Test*, *(2) Statistic*, or *(3) p-value* do not need to be identical in the exact value of the degrees of freedom, test statistic or significance
       - You can cycle cards this way as many times as you want per turn
   - **Deduction:** You may play any number of special cards (all research cards except *(1) Test*, *(2) Statistic*, and *(3) p-value*)
   - **Testing:** You may play *one* statistical test on the board
