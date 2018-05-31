@@ -21,10 +21,10 @@ The following game pieces are needed:
     - 9 x *60-Hour Work Week*
     - 6 x *Open Science*
     - 3 x *Fraudster*
-    - 30 x *1. Test* (unique cards)
-    - 30 x *2. Statistic* (unique cards)
-    - 15 x *3. p-value* (p < 0.05)
-    - 15 x *3. p-value* (p > 0.05)
+    - 30 x *(1) Test* (unique cards)
+    - 30 x *(2) Statistic* (unique cards)
+    - 15 x *(3) p-value* (p < 0.05)
+    - 15 x *(3) p-value* (p > 0.05)
   - 27 review cards, including:
     - 2 x *Reviewer 2!*
     - 5 x *Major Revisions*
@@ -66,11 +66,12 @@ Each player rolls the die; the player who rolled the highest starts. In the case
 Players take turns in clockwise order. You can do the following in your turn:
 
   - **Observation:** start your turn by drawing one card
-  - **Induction:** You may discard two cards of the same type (e.g., two *Bayes Factor* or two  *3. p-value* cards) to draw one card. Cards of the type *1. Test*, *2. Statistic*, or *3. p-value* do not need to be identical in the exact value of the degrees of freedom, test statistic or significance
+  - **Induction:** You may discard two cards of the same type (e.g., two *Bayes Factor* or two  *(3) p-value* cards) to draw one card. Cards of the type *(1) Test*, *
+  Statistic*, or *(3) p-value* do not need to be identical in the exact value of the degrees of freedom, test statistic or significance
       - You can cycle cards this way as many times as you want per turn
-  - **Deduction:** You may play any number of special cards (all research cards except *1. Test*, *2. Statistic*, and *3. p-value*)
+  - **Deduction:** You may play any number of special cards (all research cards except *(1) Test*, *(2) Statistic*, and *(3) p-value*)
   - **Testing:** You may play *one* statistical test on the board
-      - These must consist of a *1. Test*, a *2. Statistic*, and a *3. p-value*
+      - These must consist of a *(1) Test*, a *(2) Statistic*, and a *(3) p-value* card
   - **Evaluation:** If you have more than 10 cards in your hand, discard cards until you have 10 cards. If you want you may attempt to publish your paper (see rules below).
 
 As common in science, the induction, deduction and testing phases do not need to be played in order and can be repeated as many times as you want per turn. You may not play after attempting to publish, however. 
@@ -103,13 +104,13 @@ her paper is now worth 3 points and she takes a shot at publishing. She rolls a 
 
 ## Research deck
 
-### 1. Test, 2. Statistic, and 3. p-value
+### (1) Test, (2) Statistic, and (3) p-value
 <img src="cards/research/test.jpg"  style="width: 200px;"/>
 <img src="cards/research/statistic.jpg"  style="width: 200px;"/>
 <img src="cards/research/nonsig.jpg"  style="width: 200px;"/>
 <img src="cards/research/sig.jpg"  style="width: 200px;"/>
 
-The *1. Test*, *2. Statistic* and *3. p-value* cards are always played together, and represent adding a statistical test to your paper. Because of publication bias, statistically significant (p < 0.05) results are worth 2 points while non-significant results are only worth 1 point.
+The *(1) Test*, *(2) Statistic* and *(3) p-value* cards are always played together, and represent adding a statistical test to your paper. Because of publication bias, statistically significant (p < 0.05) results are worth 2 points while non-significant results are only worth 1 point.
 
 ### Statcheck!
 <img src="cards/research/statcheck.jpg"  style="width: 200px;"/>
@@ -148,7 +149,7 @@ As is common in academia, not pulling some *60-hour work week*s will severely ma
 ### Behind the Pay-wall
 <img src="cards/research/paywall.jpg"  style="width: 200px;"/>
 
-This card can be used to place *1. Test* and *2. Statistic* of a played statistical test face-down on the board. This way, you can get make life harder for those pesky methodological terrorists aiming to statcheck your work! Extra rule: you may also choose to play a statistical test from your hand, immediately placing *1. Test* and *2. Statistic* face-down.
+This card can be used to place *(1) Test* and *(2) Statistic* of a played statistical test face-down on the board. This way, you can get make life harder for those pesky methodological terrorists aiming to statcheck your work! Extra rule: you may also choose to play a statistical test from your hand, immediately placing *(1) Test* and *(2) Statistic* face-down.
 
 ### Fraudster
 <img src="cards/research/fraudster.jpg"  style="width: 200px;"/>
