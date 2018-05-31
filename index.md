@@ -216,7 +216,20 @@ Because your peers really objectively think you should cite their work! This car
     
 # Hardcore rules
 
+These are optional rules you can use to make your game more realistic or to add another challenge!
+
   - Instead of rolling the die to decide starting player, the player with the largest h-index starts
+  - Whenever you play the *Bayes Factor* card, use the codes below to compute the log Bayes Factor. If you obtain a result below -3 or above 3, the statistical test is worth 2 points. Otherwise, it is worth 1 point.
+  
+```{r}
+library(BayesFactor)
+DF1 <- ...
+DF2 <- ...
+Fvalue <- ...
+N <- DF2 + DF1 + 1
+result <- oneWayAOV.Fstat(Fvalue, N= N / (DF1 + 1), J=DF1 + 1)
+result[['bf']]
+``` 
   - When you play the *Statcheck!* card, also post a comment on Pubpeer
   - You can also play *Statcheck!* on published papers. If you detect an error, nothing happens except that you annoy your opponent a bit
   - When you are exposed as a fraudster, you also lose your PhD degree
