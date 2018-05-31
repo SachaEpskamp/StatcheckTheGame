@@ -16,7 +16,7 @@ The following game pieces are needed:
   - 135 research cards, including:
     - 12 x *Statcheck!*
     - 6 x *Bayes Factor*
-    - 4 x *Post-hoc test*
+    - 4 x *Post-hoc theory*
     - 5 x *Behind the Pay-wall*
     - 9 x *60-Hour Work Week*
     - 6 x *Open Science*
@@ -132,7 +132,7 @@ And thus the statistical test is discarded:
 
 Bayesian statistics is a form of magic in which researchers can use "Bayes Factors" to make their own non-significant findings more interesting, or another's significant findings less interesting. This is reflected by the *Bayes Factor* card, which can be played on your own and your opponents significance tests. For more information on Bayesian statistics, see the [Bayesian Spectacles](https://www.bayesianspectacles.org/) blog!
 
-## Post-hoc test
+## Post-hoc theory
 
 <img src="cards/research/posthoc.jpg"  style="width: 200px;"/>
 
