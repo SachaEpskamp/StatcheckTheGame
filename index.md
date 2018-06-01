@@ -37,7 +37,7 @@ The section "print your own game" below explains how to print out your own game.
 
 ## Statcheck
 
-[Statcheck](https://cran.r-project.org/web/packages/statcheck/index.html), developped and maintained by [Michele Nuijten](https://mbnuijten.com/), is a program that checks reported statistical tests to be accurate, and is used in this game. To run statcheck, you either need to [install statcheck in R](https://mbnuijten.com/statcheck/) and use R:
+[Statcheck](https://cran.r-project.org/web/packages/statcheck/index.html), developed and maintained by [Michele Nuijten](https://mbnuijten.com/), is a program that checks reported statistical tests to be accurate, and is used in this game. To run statcheck, you either need to [install statcheck in R](https://mbnuijten.com/statcheck/) and use R:
 
 ```{r}
 statcheck::statcheck("F(..., ...) = ..., p < 0.05", OneTailedTests = FALSE,pEqualAlphaSig = FALSE,OneTailedTxt = FALSE)
