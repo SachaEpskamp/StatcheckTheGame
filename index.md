@@ -42,7 +42,7 @@ The section "print your own game" below explains how to print out your own game.
 ```{r}
 statcheck::statcheck("F(..., ...) = ..., p < 0.05", OneTailedTests = FALSE,pEqualAlphaSig = FALSE,OneTailedTxt = FALSE)
 ```
-or (recommended) use the Statcheck: The Game web app at [sachaepskamp.shinyapps.io/statcheck/](https://sachaepskamp.shinyapps.io/statcheck/) (also usable on mobile devices)! Important rule: while playing Statcheck: The Game, you may **only** consult statcheck (or other programs / statistical textbooks / etcetera) when the *Statcheck!* card is played. For more information about the prevalence of reporting errors in psychology and the validity of statcheck, see [Nuijten et al. 2016](https://mbnuijten.files.wordpress.com/2013/08/nuijtenetal_2016_reportingerrorspsychology.pdf).
+or (recommended) use the Statcheck: The Game web app at [sachaepskamp.shinyapps.io/statcheck/](https://sachaepskamp.shinyapps.io/statcheck/) (also usable on mobile devices)! Important rule: while playing Statcheck: The Game, you may **only** consult statcheck (or other programs / statistical textbooks / etcetera) when the *Statcheck!* card is played. For more information on statcheck and research using statcheck, see the [doctoral dissertation of Michele Nuijten] (https://psyarxiv.com/qtk7e).
 
 # Rules
 
