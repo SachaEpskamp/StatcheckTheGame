@@ -38,11 +38,15 @@ The section "print your own game" below explains how to print out your own game.
 ## Statcheck
 
 [Statcheck](https://cran.r-project.org/web/packages/statcheck/index.html), developed and maintained by [Michele Nuijten](https://mbnuijten.com/), is a program that checks reported statistical tests to be accurate, and is used in this game. To run statcheck, you either need to [install statcheck in R](https://mbnuijten.com/statcheck/) and use R:
-
 ```{r}
 statcheck::statcheck("F(..., ...) = ..., p < 0.05", OneTailedTests = FALSE,pEqualAlphaSig = FALSE,OneTailedTxt = FALSE)
 ```
-or (recommended) use the Statcheck: The Game web app at [sachaepskamp.shinyapps.io/statcheck/](https://sachaepskamp.shinyapps.io/statcheck/) (also usable on mobile devices)! Important rule: while playing Statcheck: The Game, you may **only** consult statcheck (or other programs / statistical textbooks / etcetera) when the *Statcheck!* card is played. For more information on statcheck and research using statcheck, see the [doctoral dissertation of Michele Nuijten](https://psyarxiv.com/qtk7e).
+or (recommended) use the Statcheck: The Game web app at [sachaepskamp.shinyapps.io/statcheck/](https://sachaepskamp.shinyapps.io/statcheck/) (also usable on mobile devices)! If the shinyapps server is offline, you can get the app to work using the following R codes ([source codes on GitHub](https://gist.github.com/SachaEpskamp/47ae156abb95e63a8803c073977d2c1f)):
+```{r}
+library("shiny")
+runGist("47ae156abb95e63a8803c073977d2c1f")
+```
+Important rule: while playing Statcheck: The Game, you may **only** consult statcheck (or other programs / statistical textbooks / etcetera) when the *Statcheck!* card is played. For more information on statcheck and research using statcheck, see the [doctoral dissertation of Michele Nuijten](https://psyarxiv.com/qtk7e).
 
 # Rules
 
