@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 ![](logo/logo.png)
 
 Made by [Sacha Epskamp](http://sachaepskamp.com/) and [Adela Isvoranu](http://www.adelaisvoranu.com/).
